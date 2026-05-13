@@ -1,0 +1,3 @@
+adk deploy agent_engine <your-agent-parent-dir-path> \
+    --staging_bucket="gs://<your-bucket-name>" \
+    --display_name="<your-agent-name>"
